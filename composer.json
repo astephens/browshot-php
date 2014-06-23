@@ -1,5 +1,5 @@
 {
-    "name": "browshot-php/browshot",
+    "name": "browshotphp/browshot",
     "type": "library",
     "description": "PHP library for Browshot API",
     "autoload": {
